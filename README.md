@@ -1,13 +1,13 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/in/214508" width="100px" />
-    <h1>ijsblokje</h1>
+    <img src="@ijskoud/https://raw.githubusercontent.com/snowcrystals/.github/main/logo.png" width="100px" />
+    <h1>template</h1>
   
-  <p>A personal GitHub bot which syncs data and runs automated systems</p>
+  <p>A template used for every single repository in this organization 📏</p>
   
   <p align="center">
-    <img alt="Version" src="https://img.shields.io/badge/version-2.1.2-blue.svg" />
+    <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg" />
     <a href="/LICENSE" target="_blank">
-      <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+      <img alt="License: None" src="https://img.shields.io/badge/License-None-yellow.svg" />
     </a>
   </p>
 
@@ -20,25 +20,13 @@
 
 ## Information
 
-IJsblokje is a custom GitHub app build to automate a bunch of stuff, it can for example:
-
-- 🏷️ Label PRs automatically according to the conventional commit types
-- 🔃 Sync labels across mutliple repositories and allows for specific repo labels too
-- 🔔 Automatically adds the Discord feed webhook URL and enables/disables it depending on the visibility state
-- 🗞️ Syncs the readme's of multiple repositories using a config and a base readme (which is located at ijsKoud/ijsKoud)
-- 🎉 Releases a new version with automatic changelog generation everytime a command is ran by the owner: [@ijsblokjeee[bot]](https://github.com/apps/ijsblokjeee) release v**x.y.z**
+Just a template, like an uncolored drawing. That's all. ✏️
 
 ## Install
 
-Although you cannot self-host this with docker due to the personal preferences and names you can edit the code to your likings and run it from there.
-
-To do this, simply clone the repository (`git clone <url>`) and edit the code from there (Only edit the src/lib/constants.ts if you aren't looking to change the code). After that Rename the directory `ijsKoud` to your own GitHub username.
-
-Once finished, build the app (`yarn run build`) and start it by running: `yarn run start`. Do NOT forget to edit the `.env` variables first and move them to the `/data` folder (create one if it is not there yet)!
+To use this template, you will need the following: `yarn` and `node >= 18.x.x`.
 
 
-## Credits
-- Logo: <a href='https://www.freepik.com/vectors/melting-ice'>Melting ice vector created by freepik</a>
 
 ## Author
 
@@ -55,6 +43,6 @@ This will always be open source project, even if I don't receive donations. But 
 
 ## License
 
-Project is licensed under the © [**MIT License**](/LICENSE)
+Project is licensed under the © [**None License**](/LICENSE)
 
 ---
