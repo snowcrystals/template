@@ -16,7 +16,7 @@ on:
 
 jobs:
   Publish:
-    if: github.repository !== 'snowcrystals/template'
+    if: github.repository != 'snowcrystals/template'
     name: Publish Next to npm
     runs-on: ubuntu-latest
     steps:
@@ -34,7 +34,7 @@ jobs:
 
       - name: Install Dependencies
         run: yarn --immutable
-        
+
       - name: Bump Version & Publish
         run: |
           # Resolve the tag to be used. "next" for push events, "pr-{prNumber}" for dispatch events.
