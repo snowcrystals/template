@@ -4,14 +4,18 @@
 	"description": "A template used for every single repository in this organization 📏",
 	"author": "ijsKoud <github@ijskoud.dev>",
 	"license": "MIT",
-	"main": "dist/index.cjs",
-	"module": "dist/index.js",
+	"type": "module",
+	"main": "dist/index.js",
+	"module": "dist/index.mjs",
 	"types": "dist/index.d.ts",
 	"exports": {
-		"import": "./dist/index.js",
-		"require": "./dist/index.cjs",
+		"import": "./dist/index.mjs",
+		"require": "./dist/index.js",
 		"types": "./dist/index.d.ts"
 	},
+	"files": [
+		"dist/"
+	],
 	"homepage": "https://github.com/snowcrystals/template",
 	"scripts": {
 		"build": "tsup src",
