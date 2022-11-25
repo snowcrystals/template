@@ -35,5 +35,8 @@
 	"engines": {
 		"node": ">= v16.18.1"
 	},
+	"publishConfig": {
+    		"access": "public"
+  	},
 	"packageManager": "yarn@3.3.0"
 }
