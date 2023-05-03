@@ -10,9 +10,16 @@
       <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
     </a>
   </p>
+</div>
 
-  <a href="https://ijskoud.dev/discord" target="_blank">
+
+<div align="center">
+   <a href="https://ijskoud.dev/discord" target="_blank">
     <img src="https://ijskoud.dev/discord/banner" />
+  </a>
+  <br />
+   <a href="https://vercel.com/?utm_source=snowcrystals&utm_campaign=oss" target="_blank">
+    <img src="/vercel.svg" width="20%">
   </a>
 </div>
 
