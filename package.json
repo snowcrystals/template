@@ -60,6 +60,6 @@
 	},
 	"packageManager": "yarn@3.5.1",
 	"dependencies": {
-		"@favware/cliff-jumper": "^2.0.0"
+		"@favware/cliff-jumper": "^2.0.1"
 	}
 }
