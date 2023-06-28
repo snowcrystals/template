@@ -33,9 +33,7 @@ Just a template, like an uncolored drawing. That's all. ✏️
 
 ## Install
 
-To use this template, you will need the following: `yarn` and `node >= 16.18.1`.
-
-
+To use this template, you will need the following: `yarn` and `node >= 18.16.0`.
 
 ## Author
 
