@@ -5,4 +5,4 @@ version = "0.0.1"
 
 [variables]
 information = "Just a template, like an uncolored drawing. That's all. ✏️"
-installation = "To use this template, you will need the following: `yarn` and `node >= 18.16.0`."
+installation = "To use this template, you will need the following: `pnpm` and `node >= 18.16.0`."
