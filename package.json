@@ -23,7 +23,7 @@
 		"start:dev": "nodemon ./dist",
 		"start": "node ./dist",
 		"lint": "eslint src",
-		"postinstall": "is-ci || husky install",
+		"postinstall": "is-ci || husky",
 		"prepack": "pinst --disable",
 		"postpack": "pinst --enable",
 		"bump": "cliff-jumper",
