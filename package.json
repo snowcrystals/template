@@ -33,8 +33,8 @@
 		"load-tsconfig": "^0.2.5"
 	},
 	"devDependencies": {
-		"@favware/cliff-jumper": "^3.0.2",
-		"@snowcrystals/eslint-config": "^1.0.1",
+		"@favware/cliff-jumper": "^3.0.3",
+		"@snowcrystals/eslint-config": "^1.0.2",
 		"@sapphire/ts-config": "^5.0.1",
 		"@snowcrystals/prettier-config": "^1.0.0",
 		"@types/node": "^20.12.7",
