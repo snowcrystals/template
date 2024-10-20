@@ -37,7 +37,7 @@
 		"@snowcrystals/eslint-config": "^1.0.2",
 		"@sapphire/ts-config": "^5.0.1",
 		"@snowcrystals/prettier-config": "^1.0.0",
-		"@types/node": "^20.16.11",
+		"@types/node": "^20.16.13",
 		"eslint": "^8.57.1",
 		"husky": "^9.1.6",
 		"is-ci": "^3.0.1",
@@ -46,7 +46,7 @@
 		"pinst": "^3.0.0",
 		"prettier": "^3.3.3",
 		"tsup": "^8.3.0",
-		"typedoc": "^0.26.9",
+		"typedoc": "^0.26.10",
 		"typedoc-json-parser": "^10.1.6",
 		"typescript": "5.6.3"
 	},
